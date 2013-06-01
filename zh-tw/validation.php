@@ -31,7 +31,7 @@ return array(
     "different"        => ":attribute 必須和 :other 不同",
     "digits"           => ":attribute 位數必須是 :digits",
     "digits_between"   => ":attribute 位數必須在 :min 到 :max 之間",
-    "email"            => ":attribute 必須是合法打Email格式",
+    "email"            => ":attribute 必須是合法的Email格式",
     "exists"           => ":attribute 不存在",
     "image"            => ":attribute 必須是圖片",
     "in"               => ":attribute 不合法",
