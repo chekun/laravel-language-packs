@@ -46,7 +46,7 @@ return array(
     "min"              => array(
         "numeric" => ":attribute 不能小於 :min",
         "file"    => ":attribute 文件大小不能小於 :min kb",
-        "string"  => ":attribute 長度不能大於 :min",
+        "string"  => ":attribute 長度不能小於 :min",
     ),
     "not_in"           => ":attribute 不合法",
     "numeric"          => ":attribute 必須是數字",
